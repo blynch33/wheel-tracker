@@ -1,0 +1,24 @@
+{
+  "short_name": "Wheel Tracker",
+  "name": "Wheel Strategy Command Center",
+  "description": "Premium collection & systematic income tracker",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0d14",
+  "background_color": "#0a0d14",
+  "orientation": "any",
+  "scope": "/",
+  "status_bar_style": "black-translucent"
+}
